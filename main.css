@@ -25,22 +25,23 @@ body{
 }
 
 .box h1{
-    font-size: 25px;
+    font-size: 30px;
     letter-spacing: 1px; 
     font-weight: 100;
-    font-family: 'Noto Serif', serif;
+    font-family: 'Patrick Hand', cursive;
 }
 
 .box h5{
-    font-size: 15px;
-    letter-spacing: 2px;
+    font-size: 20px;
+    letter-spacing: 1px;
     font-weight: 100;
+    font-family: 'Shadows Into Light Two', cursive;
 }
 
 .box p{ 
     text-align: justify;
     font-family: 'Neucha', cursive;
-    font-size: 18px;
+    font-size: 19px;
 }
 
 ul {
