@@ -25,10 +25,10 @@ body{
 }
 
 .box h1{
-    font-size: 30px;
-    letter-spacing: 1px; 
+    font-size: 25px;
+    letter-spacing: 0px; 
     font-weight: 100;
-    font-family: 'Patrick Hand', cursive;
+    font-family: 'Merienda', cursive;
 }
 
 .box h5{
@@ -65,3 +65,22 @@ ul {
 .box li a:hover{
     color: #af76c4;
 }
+
+.box h2 {
+    display: inline-block;
+    margin: 15px;
+    list-style: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.box h2 a{
+    color: white;
+    text-decoration: none;
+    font-size: 20;
+    transition: all ease-in-out 250ms;
+}
+
+.box h2 a:hover{
+    color: #af76c4;
+}
+
